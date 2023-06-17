@@ -141,7 +141,7 @@ message.channel.send(`${math.evaluate(`${message.content} + 1`)}`)
 });
 
 
-// Do not change anything here
+// Do not change anything heree
 require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |              Informations               |
@@ -167,7 +167,7 @@ client.on("ready", () => {
 
 
 
-//  For Watching Status
+//  For Watching Statuss
 // client.on("ready", () => {
 // client.user.setActivity(`Chilling with owner`, { type:         "STREAMING",
 // url: "https://www.twitch.tv/nocopyrightsounds"})
