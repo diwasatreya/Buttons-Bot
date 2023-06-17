@@ -141,7 +141,7 @@ message.channel.send(`${math.evaluate(`${message.content} + 1`)}`)
 });
 
 
-// Do not change anything here
+// Do not change anything heree
 require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |              Informations               |
