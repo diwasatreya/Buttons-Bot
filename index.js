@@ -167,7 +167,7 @@ client.on("ready", () => {
 
 
 
-//  For Watching Status
+//  For Watching Statuss
 // client.on("ready", () => {
 // client.user.setActivity(`Chilling with owner`, { type:         "STREAMING",
 // url: "https://www.twitch.tv/nocopyrightsounds"})
